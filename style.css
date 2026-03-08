@@ -9,7 +9,7 @@ body {
 .cat-container {
     display: flex;
     flex-wrap: wrap;
-    Edit Preview Snippets Tab currently allows you to navigate the snippets. justify-content: space-around;
+    justify-content: space-around;
     padding: 2em;
 }
 
@@ -53,7 +53,7 @@ body {
 }
 
 /* Provide media queries for responsiveness */
-@media (max-width: 600px) {
+@media (max-width: 768px) {
     .cat-container {
         flex-direction: column;
         background-color: white;
