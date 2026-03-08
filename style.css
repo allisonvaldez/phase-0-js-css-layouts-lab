@@ -13,7 +13,7 @@ body {
     padding: 2em;
 }
 
-/* Style the cat breed cards */
+/* Style the cat breed cards for proper display*/
 .cat-breed {
     display: flex;
     flex-direction: column;
