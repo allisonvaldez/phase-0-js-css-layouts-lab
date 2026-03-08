@@ -9,7 +9,7 @@ body {
 .cat-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    Edit Preview Snippets Tab currently allows you to navigate the snippets. justify-content: space-around;
     padding: 2em;
 }
 
